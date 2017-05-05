@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "elemental": "^0.6.1",
+    "express": "^4.15.2",
     "material-ui": "^0.17.4",
     "mui-data-table": "^0.1.5",
     "muicss": "^0.9.15",
+    "path": "^0.12.7",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
     "react-bootstrap": "^0.30.10",
